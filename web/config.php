@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyD6r_o11nswFYWmzgt2dXLjze7AzUR0lH0p');//这里改成您的api key
+define('APIKEY', 'AIzaSyD6r_o11nswFYWmzgt2dXLjze7AzUR0lH0');//这里改成您的api key
 define('GJ_CODE', 'FR');//国家代码
 define('SITE_NAME', 'UTB');//网站名字
 define('TITLENAME', 'UTB');//网站名字
