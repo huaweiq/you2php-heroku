@@ -9,9 +9,9 @@
     </footer>
   
   
-  <script src="https://cdn.bootcss.com/popper.js/1.11.0/umd/popper.min.js"></script>
-  <script src="https://cdn.bootcss.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
-  <script src="https://cdn.bootcss.com/Swiper/4.0.6/js/swiper.min.js"></script>  
+  <script src="https://cdn.staticfile.org/popper.js/1.11.0/umd/popper.min.js"></script>
+  <script src="https://cdn.staticfile.org/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+  <script src="https://cdn.staticfile.org/Swiper/4.0.6/js/swiper.min.js"></script>  
   <script>
     $(".carousel").on("touchstart", function(event){
         var xClick = event.originalEvent.touches[0].pageX;
